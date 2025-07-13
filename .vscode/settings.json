@@ -1,9 +1,5 @@
 {
-  "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
-    "editor.formatOnSave": false
-  },
-  "markdown.extension.tableFormatter.normalizeIndentation": false,
-  "markdown.extension.tableFormatter.enabled": true,
-  "prettier.enabled": false
+  "markdownlint.customRules": [
+    ".vscode/customTableRule.js"
+  ]
 }
