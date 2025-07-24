@@ -1,5 +1,5 @@
 {
   "markdownlint.customRules": [
-    ".vscode/customTableRule.js"
+    ".vscode/customTableRule.cjs"
   ]
 }
